@@ -34,5 +34,6 @@ ol, .centerer{
     margin-right:30em;
 }
 .images {
-    text-align: auto;
+    display: block;
+    margin: auto;
 }
