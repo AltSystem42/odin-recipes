@@ -4,6 +4,27 @@
 ::after {
     box-sizing: border-box;
 }
-.unordered {
+.title-page {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.288);
+    width: 508px;
+    margin-left: 17em;
+}
+.body-page {
+    margin:50px;
+    background-color: rgba(241, 211, 41, 0.555);
+}
+.tab {
     list-style-type:none;
+    display: flex;
+    margin-left:13em;
+
+}
+button, .front{
+    margin-right: 10px;
+    font-size:35px;
+    color:rgb(23, 105, 3)
+}
+button {
+    font-size:50px;
 }
